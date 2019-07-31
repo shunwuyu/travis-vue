@@ -4,7 +4,7 @@ import Vue from 'vue'
 import App from './App'
 
 Vue.config.productionTip = false
-console.log('travis vue');
+console.log('travis vue later');
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
